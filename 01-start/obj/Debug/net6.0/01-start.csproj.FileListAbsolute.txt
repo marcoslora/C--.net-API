@@ -1,0 +1,15 @@
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/bin/Debug/net6.0/01-start
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/bin/Debug/net6.0/01-start.deps.json
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/bin/Debug/net6.0/01-start.runtimeconfig.json
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/bin/Debug/net6.0/01-start.dll
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/bin/Debug/net6.0/01-start.pdb
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/obj/Debug/net6.0/01-start.csproj.AssemblyReference.cache
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/obj/Debug/net6.0/01-start.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/obj/Debug/net6.0/01-start.AssemblyInfoInputs.cache
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/obj/Debug/net6.0/01-start.AssemblyInfo.cs
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/obj/Debug/net6.0/01-start.csproj.CoreCompileInputs.cache
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/obj/Debug/net6.0/01-start.dll
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/obj/Debug/net6.0/refint/01-start.dll
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/obj/Debug/net6.0/01-start.pdb
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/obj/Debug/net6.0/01-start.genruntimeconfig.cache
+/Users/ml/Documents/GitHub-JavaScript/C# dotnet/C--.net-API/01-start/obj/Debug/net6.0/ref/01-start.dll

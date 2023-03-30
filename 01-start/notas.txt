@@ -1,0 +1,4 @@
+crear el proyecto
+dotnet new console
+
+dotnet run
